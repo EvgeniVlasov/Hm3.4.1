@@ -5,6 +5,11 @@
         <item>Russian</item>
         <item>English</item>
     </string-array>
+    <string-array name="themes">
+        <item>black</item>
+        <item>green</item>
+        <item>blue</item>
+    </string-array>
     <string name="ButtonOk">Accept</string>
     <string name="txtView">Awesome news
 Meanwhile, Elon Musk taught an HR lesson on how to hunt the best engineers from around the world and presented the long-awaited Neuralink project.</string>

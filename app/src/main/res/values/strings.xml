@@ -4,6 +4,11 @@
     <item>Русский</item>
     <item>Английский</item>
     </string-array>
+    <string-array name="themes">
+        <item>Темная</item>
+        <item>Зеленая</item>
+        <item>Синия</item>
+    </string-array>
     <string name="ButtonOk">Принять</string>
     <string name="txtView">Потрясающие новости
 Тем временем, Илон Маск преподал эйчар-урок, как хантить лучших инженеров со всего мира и представил долгожданный проект Neuralink.</string>
